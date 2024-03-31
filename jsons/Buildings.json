@@ -1,25 +1,25 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "infinite happiness comand",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"uniqueTo": "spectator",
+		"cost": 150,
+		"happiness": 10000000,
+		"culture": 1000000,
+		"science": 1000000,
+		"maintenance": 0,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
+		"name": "water spawner",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "spectator",
 		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"hurryCostModifier": 10000000000000000,
+		"happiness": 1000,
+		"uniques": ["100% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 	}
 ]

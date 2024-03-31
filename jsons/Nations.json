@@ -2,7 +2,7 @@
 	{
 		"name": "spectator",
 		"leaderName": "noone",
-		"adjective": ["not supposed to be here"],
+		"adjective": ["spectator"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
